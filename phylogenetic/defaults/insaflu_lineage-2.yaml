@@ -1,4 +1,4 @@
-strain_id_field: "strain"
+strain_id_field: "accession"
 
 # Sequences must be FASTA and metadata must be TSV
 inputs:
