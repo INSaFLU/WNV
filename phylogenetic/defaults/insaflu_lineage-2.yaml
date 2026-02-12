@@ -51,8 +51,8 @@ build_params:
       proportion_wide: 0.0
 
     export:
-      description: "defaults/description.md"
-      auspice_config: "defaults/all-lineages/auspice_config.json"
+      description: "defaults/description_insaflu.md"
+      auspice_config: "defaults/all-lineages/auspice_config_insaflu.json"
 
   lineage-1A:
     reference: "defaults/lineage-1A/reference.gb"
@@ -92,8 +92,8 @@ build_params:
       proportion_wide: 0.0
 
     export:
-      description: "defaults/description.md"
-      auspice_config: "defaults/lineage-1A/auspice_config.json"
+      description: "defaults/description_insaflu.md"
+      auspice_config: "defaults/lineage-1A/auspice_config_insaflu.json"
 
   lineage-2:
     reference: "defaults/lineage-2/reference.gb"
@@ -133,5 +133,5 @@ build_params:
       proportion_wide: 0.0
 
     export:
-      description: "defaults/description.md"
-      auspice_config: "defaults/lineage-2/auspice_config.json"
+      description: "defaults/description_insaflu.md"
+      auspice_config: "defaults/lineage-2/auspice_config_insaflu.json"
